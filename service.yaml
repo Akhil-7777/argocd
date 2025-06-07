@@ -5,7 +5,7 @@ metadata:
   name: mysvc
 spec:
   selector:
-    app: myapp
+    app: my-app
   type: LoadBalancer
   ports:
   - port: 80
